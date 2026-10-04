@@ -525,8 +525,8 @@ button {
 }
 
 .hero__float--1 {
-  top: 15%;
-  right: 5%;
+  top: 20%;
+  right: -8%;
   animation-delay: 0s;
 }
 
